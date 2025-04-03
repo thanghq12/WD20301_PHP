@@ -37,4 +37,5 @@ if(array_key_exists('nokia',$products)) {
 } else {
     echo "Không có key nokia trong mảng";
 }
+
 ?>
